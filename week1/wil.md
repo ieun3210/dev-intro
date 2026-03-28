@@ -23,3 +23,5 @@ git(컴퓨터프로그램) -> Github(웹 플랫폼)
 2. 오른쪽 상단 Add New -> Project 선택
 3. 우리의 레포지토리를 찾아서 import -> Deploy 끝
 
+#배포한 링크
+https://dev-intro-g1y3.vercel.app/
