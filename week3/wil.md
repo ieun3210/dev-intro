@@ -3,7 +3,7 @@
 - 상대 경로(./) : 현재 위치를 기준으로 움직인다.
 - 상위 폴더(../) : 현재 위치의 상위 폴더로 움직인다.
 - branch를 만들어서 메인 코드/ 개발용 코드를 나누고, 필요할 때 메인에 합친다.
-* CSS
+## CSS
 - 내부 스타일: head 태그 내부에 style 태그로 정의한다.
 ``` html
 <style>
@@ -18,10 +18,10 @@
 
 
 # margin과 padding
-* margin
+## margin
 - Object와 화면과의 여백 **(외부여백)**
 - margin-top, margin-left, margin-right, margin-bottom
-* padding
+## padding
 - Object 내의 **내부여백** 
 - padding-top, padding-left, padding-right, padding-bottom
 ## 예제
